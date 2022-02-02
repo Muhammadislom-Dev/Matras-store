@@ -1,0 +1,7 @@
+.nav-link:hover{
+    background-color:#C19D7C;
+    transition: 1.2s;
+    border-radius:10px;
+    height: 30px;
+}
+
